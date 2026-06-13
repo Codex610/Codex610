@@ -277,7 +277,7 @@ Open to product companies, analytics consultancies, and early-stage startups.
 &nbsp;
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajnishchauhan912556@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://Codex610.github.io)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://codex610.github.io/Codex610.github.io-portfolio-daa/)
 
 <br/>
 
